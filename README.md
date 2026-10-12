@@ -2,8 +2,6 @@
 
 Mapping the western part of Plaka Park (Lesvos UNESCO Global Geopark) at two scales, the whole park section (1:100) and a single fossil site (1:10), using drone photogrammetry (RGB) and LiDAR. Outputs are point clouds, a textured 3D model, orthophoto maps and a DEM with contours, plus a comparison of the point clouds.
 
-![Orthophoto map of the western part of Plaka Park](Plaka_park_west_orthomap.jpg)
-
 ## Key results
 
 | | |
@@ -76,7 +74,8 @@ The 1:10 map shows the fossil trunks in fine detail, and the 1:100 map (at the t
 
 The DEM from the L1 LiDAR cloud covers the western section, with 1 m contour lines showing the terrain.
 
-![DEM and contour map of the western part](dem_contours.png) <!-- upload this image -->
+![Orthophoto map of the western part of Plaka Park](Plaka_park_west_orthomap.jpg)
+
 
 ## Cloud comparison
 
@@ -89,7 +88,7 @@ The DEM from the L1 LiDAR cloud covers the western section, with 1 m contour lin
 
 The photogrammetric cloud is evenly distributed, while the LiDAR cloud is denser on average but much more uneven. The C2C distance has a mean of 0.236 m (std 0.240 m, RMS 0.337 m). Most distances are below 0.5 m, and the largest differences appear along the fence and paths, where the two methods capture vertical structures differently. Over open ground and vegetation the agreement is good.
 
-![Cloud-to-cloud comparison, Mavic 3E vs Zenmuse L1](c2c_mavic_vs_l1.png) <!-- upload this image -->
+![Cloud-to-cloud comparison, Mavic 3E vs Zenmuse L1](Mavic3E_vs_L1_C2C.png) 
 
 ### Park scale vs fossil-site scale (both Mavic 3E)
 
