@@ -129,11 +129,11 @@ The two clouds were cropped to the same location and compared. First, the point 
 <table>
   <tr>
     <td><img src="Histogram_Gauss_plaka-ortho.png" alt="Surface density histogram, Mavic 3E"></td>
-    <td><img src="hist_neighbors_M3E.png" alt="Number of neighbours histogram, Mavic 3E"></td>
+
   </tr>
   <tr>
     <td align="center"><em>Surface density, Mavic 3E</em></td>
-    <td align="center"><em>Number of neighbours, Mavic 3E</em></td>
+  
   </tr>
 </table>
 
