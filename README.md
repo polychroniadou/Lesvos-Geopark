@@ -47,6 +47,7 @@ Flight plan used with Matrice, Zenmuse L1 LiDAR
 3. **Mapping:** produced A4 orthophoto maps at 1:100 (park section) and 1:10 (fossil site). Generated a DEM from the LiDAR point cloud and extracted 1 m contour lines `[QGIS / ArcGIS]`.
 
 ![West section of the park](west1.jpg)
+![West section of the park](DEM&contour.jpg)
 
 ## Results
 
