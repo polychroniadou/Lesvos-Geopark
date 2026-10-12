@@ -121,4 +121,18 @@ DJI Mavic 3 Enterprise, DJI Matrice with Zenmuse L1 `[model]`, Agisoft Metashape
 
 Papadopoulou, E. E., Papakonstantinou, A., Vasilakos, C., Zouros, N., Tataris, G., Proestakis, S., & Soulakellis, N. (2022). Scale issues for geoheritage 3D mapping: The case of Lesvos Geopark, Greece. *International Journal of Geoheritage and Parks*, 10(3), 435-446. https://doi.org/10.1016/j.ijgeop.2022.08.006
 
+Kelepertzis, E., Roussos, A., Drougas, C., Kypritidou, Z., Vassilakis, E., & Zouros, N. (2026). Soil geochemical patterns in Lesvos island UNESCO Global Geopark, Greece: Unveiling the influence of diverse geology. Applied Geochemistry, 205. https://doi.org/10.1016/j.apgeochem.2026.106893
+
+Kotis, K., Angelis, S., Moraitou, E., Kopsachilis, V., Papadopoulou, E. E., Soulakellis, N., & Vaitis, M. (2023). A KG-Based Integrated UAV Approach for Engineering Semantic Trajectories in the Cultural Heritage Documentation Domain. Remote Sensing, 15(3). https://doi.org/10.3390/rs15030821
+
+
+Papadopoulou, E. E., Papakonstantinou, A., Kapogianni, N. A., Zouros, N., & Soulakellis, N. (2022a). VR Multiscale Geovisualization Based on UAS Multitemporal Data: The Case of Geological Monuments. Remote Sensing, 14(17). https://doi.org/10.3390/rs14174259
+
+Papadopoulou, E. E., Papakonstantinou, A., Vasilakos, C., Zouros, N., Tataris, G., Proestakis, S., & Soulakellis, N. (2022b). Scale issues for geoheritage 3D mapping: The case of Lesvos Geopark, Greece. International Journal of Geoheritage and Parks, 10(3), 435–446. https://doi.org/10.1016/j.ijgeop.2022.08.006
+
+Pe-Piper, G., Piper, D. J. W., Anastasakis, G., Zouros, N., & Lyras, G. (2024). Variability in mineralization of the petrified forests in the UNESCO Global Geopark of Lesvos, Greece. Marine and Petroleum Geology, 167. https://doi.org/10.1016/j.marpetgeo.2024.106990
+
+Zouros, N. C. (2021). The Miocene Petrified Forest of Lesvos, Greece: Research and Geoconservation Activities. In Geoconservation Research (Vol. 4, Issue 2, pp. 635–649). Islamic Azad University - Isfahan Branch. https://doi.org/10.30486/gcr.2021.1927340.1090 
+
+
 *Project developed at the University of the Aegean, Department of Geography.*
