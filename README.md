@@ -74,19 +74,19 @@ The western section was flown at 120 m and 8 m/s (5 min 11 s, 2.44 km, 98 images
 
 The park-scale cloud has 35,039,257 points and the fossil-site cloud has 34,388,203, both at high quality in Metashape.
 
-![3D point cloud of the western part of the park](point_cloud_west.png)
+![3D point cloud of the western part of the park](orthodytiko_2.png)
 *3D point cloud, western part of the park.*
 
 At 25 m flight height the fossil site is far denser: about 18,850 points/m² compared with about 230 points/m² for the park-scale cloud.
 
-![3D point cloud of the fossil site](point_cloud_site.png)
+![3D point cloud of the fossil site](plaka_ortho_2.png)
 *3D point cloud, fossil site.*
 
 ### 3.2 3D model of the fossil site
 
 A high-resolution mesh (5.67 million faces) was built from the point cloud, textured from the original images and cropped around the fenced site. A medium-quality version (573,774 faces) is available on Sketchfab: [mariapolchr on Sketchfab](https://sketchfab.com/mariapolchr).
 
-![Textured 3D model of the fossil site](model_site_textured.png)
+![Textured 3D model of the fossil site](Fossil_1_Plaka_park.jpg)
 *Textured 3D model of the fossil site, high quality.*
 
 ### 3.3 Orthophoto maps
