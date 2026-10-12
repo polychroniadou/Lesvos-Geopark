@@ -60,7 +60,7 @@ At 25 m flight height the fossil site is far denser: about 18,850 points/m² com
 
 ### 3D model of the fossil site
 
-A high-resolution mesh (5.67 million faces) was built from the point cloud, textured from the original images and cropped around the fenced site. A medium-quality version (573,774 faces) is available on Sketchfab: [SKETCHFAB LINK].
+A high-resolution mesh (5.67 million faces) was built from the point cloud, textured from the original images and cropped around the fenced site. A medium-quality version (573,774 faces) is available on Sketchfab: [sketchfab.com/mariapolchr] .
 
 ![Textured 3D model of the fossil site](model_site_textured.png) <!-- upload this image -->
 
@@ -99,7 +99,7 @@ The C2C distance has a mean of 0.054 m (std 0.046 m, RMS 0.070 m), with most val
 
 ## Limitations
 
-- C2C distance measures how well two clouds agree with each other, not how accurate either one is against the ground. `[State whether ground control points or RTK were used for georeferencing.]`
+- C2C distance measures how well two clouds agree with each other, not how accurate either one is against the ground. 
 - The Mavic 3E vs L1 comparison mixes two methods, two flight heights and two flight patterns, so it can't isolate the effect of the sensor.
 - Only one fossil site (site 3) was processed in detail, and data were collected on a single day.
 - The A4 maps were made at two fixed scales and are not a continuous multi-scale product.
