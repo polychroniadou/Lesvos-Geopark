@@ -117,8 +117,8 @@ The two clouds were cropped to the same location and compared. First, the point 
 
 <table>
   <tr>
-    <td><img src="hist_surface_density_L1.png" alt="Surface density histogram, Matrice L1"></td>
-    <td><img src="hist_neighbors_L1.png" alt="Number of neighbours histogram, Matrice L1"></td>
+    <td><img src="Histogram_Gauss_lidar_1.png" alt="Surface density histogram, Matrice L1"></td>
+    <td><img src="Histogram_Gauss_lidar_2.png" alt="Number of neighbours histogram, Matrice L1"></td>
   </tr>
   <tr>
     <td align="center"><em>Surface density, Matrice L1</em></td>
@@ -128,7 +128,7 @@ The two clouds were cropped to the same location and compared. First, the point 
 
 <table>
   <tr>
-    <td><img src="hist_surface_density_M3E.png" alt="Surface density histogram, Mavic 3E"></td>
+    <td><img src="Histogram_Gauss_plaka-ortho.png" alt="Surface density histogram, Mavic 3E"></td>
     <td><img src="hist_neighbors_M3E.png" alt="Number of neighbours histogram, Mavic 3E"></td>
   </tr>
   <tr>
