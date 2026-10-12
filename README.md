@@ -149,8 +149,8 @@ Then the cloud-to-cloud (C2C) distances. Colours show the distance between the t
 
 <table>
   <tr>
-    <td><img src="C2C_gauss_mean_L1.png" alt="Gauss histogram of C2C distances, Mavic 3E vs L1"></td>
-    <td><img src="C2C_histogram_L1.png" alt="C2C histogram of absolute distances, Mavic 3E vs L1"></td>
+    <td><img src="Histogram_Gauss_c2c.png" alt="Gauss histogram of C2C distances, Mavic 3E vs L1"></td>
+    <td><img src="Histogram_C2C.png" alt="C2C histogram of absolute distances, Mavic 3E vs L1"></td>
   </tr>
   <tr>
     <td align="center"><em>Gauss histogram, mean</em></td>
@@ -166,8 +166,8 @@ The park-scale cloud (1:100) was compared with the fossil-site cloud (1:10), bot
 
 <table>
   <tr>
-    <td><img src="hist_density_park_M3E.png" alt="Surface density histogram, park scale"></td>
-    <td><img src="hist_density_site_M3E.png" alt="Surface density histogram, fossil site"></td>
+    <td><img src="orthodytiko_sd.png" alt="Surface density histogram, park scale"></td>
+    <td><img src="merged_sd.png" alt="Surface density histogram, fossil site"></td>
   </tr>
   <tr>
     <td align="center"><em>Surface density, park scale</em></td>
@@ -185,8 +185,8 @@ The park-scale cloud (1:100) was compared with the fossil-site cloud (1:10), bot
 
 <table>
   <tr>
-    <td><img src="C2C_histogram_scales.png" alt="C2C histogram of absolute distances, park vs site"></td>
-    <td><img src="C2C_gauss_scales.png" alt="Gauss histogram of C2C distances, park vs site"></td>
+    <td><img src="Histogram_C2C.png" alt="C2C histogram of absolute distances, park vs site"></td>
+    <td><img src="Histogram_gaus_c2c.png" alt="Gauss histogram of C2C distances, park vs site"></td>
   </tr>
   <tr>
     <td align="center"><em>C2C histogram, absolute distances</em></td>
