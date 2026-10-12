@@ -34,7 +34,11 @@ All flights took place around midday on 26 April 2026 in the western part of the
 
 Site 3 (logs 4 to 8) was chosen as the reference site for the detailed processing. GSD is computed as `GSD = (H · Sw) / (f · IMw)`, where H is flight height, Sw is sensor width, f is focal length and IMw is image width in pixels.
 
-![Flight plan for site 3](flight_plan_site3.png) <!-- upload this image -->
+![Flight plan for site 3](UAV_flight_plan.png)
+Flight plan used with Mavic 3E Wide
+
+![Flight plan for site 3](UAV_flight_plan_L1.png)
+Flight plan used with Matrice, Zenmuse L1 LiDAR
 
 ## Processing
 
@@ -58,7 +62,7 @@ At 25 m flight height the fossil site is far denser: about 18,850 points/m² com
 
 ### 3D model of the fossil site
 
-A high-resolution mesh (5.67 million faces) was built from the point cloud, textured from the original images and cropped around the fenced site. A medium-quality version (573,774 faces) is available on Sketchfab: [sketchfab.com/mariapolchr] .
+A high-resolution mesh (5.67 million faces) was built from the point cloud, textured from the original images and cropped around the fenced site. A medium-quality version (573,774 faces) is available on Sketchfab:[ (https://sketchfab.com/mariapolchr) ](https://sketchfab.com/mariapolchr) . 
 
 ![Textured 3D model of the fossil site](model_site_textured.png) <!-- upload this image -->
 
@@ -94,7 +98,7 @@ The photogrammetric cloud is evenly distributed, while the LiDAR cloud is denser
 
 The C2C distance has a mean of 0.054 m (std 0.046 m, RMS 0.070 m), with most values below 0.1 m. The only visible differences are along the fence, so the two scales agree well geometrically.
 
-![Cloud-to-cloud comparison, park vs site scale](c2c_scale_comparison.png) <!-- upload this image -->
+![Cloud-to-cloud comparison, park vs site scale](Park_vs_fossil_C2C.png) <!-- upload this image -->
 
 ## Limitations
 
