@@ -1,6 +1,6 @@
 # Multi-scale UAV Mapping of Plaka Park, Lesvos Petrified Forest Geopark
 
-Mapping the western part of Plaka Park (Lesvos UNESCO Global Geopark) at two scales, the whole park section (1:100) and a single fossil site (1:10), using drone photogrammetry (RGB) and LiDAR. Outputs are point clouds, a textured 3D model, orthophoto maps and a DEM with contours, plus a comparison of the point clouds.
+Multi-scale UAV documentation of the western section of Plaka Park (Lesvos UNESCO Global Geopark) across two spatial resolution tiers: a comprehensive park-scale overview (GSD 3.23 cm/px) and an ultra-detailed single fossil site survey (GSD 0.67 cm/px). The survey integrates drone photogrammetry (DJI Mavic 3 Enterprise RGB) and aerial LiDAR (DJI Matrice with Zenmuse L1) to produce dense point clouds, high-resolution 3D textured meshes, orthophoto map layouts, a bare-earth DEM with 1 m contours, and quantitative cloud-to-cloud (C2C) comparative analyses.
 
 ## Key results
 
@@ -66,7 +66,7 @@ The western section was flown at 120 m and 8 m/s (5 min 11 s, 2.44 km, 98 images
 
 1. **Photogrammetry (Agisoft Metashape):** imported and aligned the photos of the park and the fossil site separately, built a dense point cloud, then a 3D mesh, texture and orthomosaic.
 2. **Cloud comparison (CloudCompare):** exported the point clouds as `.las` and ran two independent cloud-to-cloud (C2C) comparisons: (1) the park-scale Mavic 3E cloud against the Zenmuse L1 LiDAR cloud, and (2) the park-scale Mavic 3E cloud against the fossil-site Mavic 3E cloud, cropped to the area where they overlap.
-3. **Mapping:** produced A4 orthophoto maps at 1:100 (park section) and 1:10 (fossil site). Generated a DEM from the LiDAR point cloud and extracted 1 m contour lines in GIS.
+3. Produced standardized A4 cartographic layouts: a regional park overview map and a detailed fossil site map, maintaining full photogrammetric fidelity. Generated a DEM from the LiDAR point cloud and extracted 1 m contour lines in ArcGIS-pro.
 
 ## 3. Results
 
@@ -226,7 +226,7 @@ The Mavic-to-Mavic comparison (mean 0.054 m, RMS 0.070 m) shows much smaller dev
 
 ## Tools
 
-DJI Mavic 3 Enterprise, DJI Matrice with Zenmuse L1, Agisoft Metashape, CloudCompare, GIS software for the maps and DEM, Sketchfab.
+DJI Mavic 3 Enterprise, DJI Matrice with Zenmuse L1, Agisoft Metashape, CloudCompare, ArcGIS-pro for the maps and DEM, Sketchfab.
 
 ## Repository contents
 
