@@ -57,7 +57,7 @@ $$GSD = \frac{H \cdot S_w}{f \cdot IM_w}$$
 *(where $H$ = flight height, $S_w$ = sensor width, $f$ = focal length, and $IM_w$ = image width in pixels).*
 
 #### Whole Park Survey: DJI Matrice (Zenmuse L1)
-Flown at 80 m AGL in a nadir grid pattern with 80% frontal and 20% side overlap (total flight duration: 12 min 07 s). Total coverage was 113,439 m² with a point cloud sampling resolution of 2.18 cm/px.
+Flown at 80 m AGL in a nadir grid pattern with 80% frontal and 20% side overlap (total flight duration: 12 min 07 s). Total coverage was 113,439 m² with a GSD of 2.18 cm/px.
 
 ![Flight plan, Matrice with Zenmuse L1](UAV_flight_plan_L1.png)  
 *Figure 1: Automated flight trajectory for Matrice / Zenmuse L1 LiDAR acquisition.*
@@ -197,9 +197,9 @@ Comparing the 120 m regional cloud with the 25 m terrain-following cloud confirm
 ## 4. Discussion & Interpretation
 
 1. **Photogrammetry vs. LiDAR Discrepancies:**  
-   The $0.236\text{ m}$ mean difference between the Mavic 3E and Zenmuse L1 clouds is concentrated around high-gradient vertical features (wire boundary fences and footpath retaining walls). LiDAR effectively penetrated boundary brush and registered thin wire profiles, whereas photogrammetric depth reconstruction smoothed vertical wire geometry into pseudo-surfaces. Over open barren ground, both sensors demonstrated close geometric agreement (<0.10 m).
+   The $0.236\text{ m}$ mean difference between the Mavic 3E and Zenmuse L1 clouds is concentrated around high-gradient vertical features (fence and paths). LiDAR effectively penetrated boundary brush and registered thin wire profiles, whereas photogrammetric depth reconstruction smoothed vertical wire geometry into pseudo-surfaces. Over open barren ground, both sensors demonstrated close geometric agreement (<0.10 m).
 2. **Multi-Scale Geometric Fidelity:**  
-   Comparing the 120 m overview survey and the 25 m terrain-following mission produced sub-decimeter consistency (mean: $0.054\text{ m}$, RMS: $0.070\text{ m}$). This proves that multi-altitude SfM acquisitions can be aligned into a seamless, multi-resolution spatial archive without scale distortion.
+   Comparing the 120 m overview survey and the 25 m terrain-following mission produced sub-decimeter consistency (mean: $0.054\text{ m}$, RMS: $0.070\text{ m}$). This suggests that multi-altitude SfM acquisitions can be aligned into a seamless, multi-resolution spatial archive without scale distortion.
 3. **Operational Trade-offs:**  
    While LiDAR provides direct bare-earth penetration through Mediterranean macchia vegetation to produce clean DEM contours, high-overlap RGB photogrammetry remains indispensable for sub-centimeter visual inspection, surface texturing, and structural crack documentation.
 
